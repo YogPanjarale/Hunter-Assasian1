@@ -1,0 +1,13 @@
+//this is an example function 
+
+/*it takes 3 aurgument 1.Array 2.targetPosition(as a object{x:2,y:3}) and
+3.currentPosition(as an object{x:5,y:6})
+note all the x and y's are indexes 
+the Function shoud return an array of positions ex.[[4,4],[6,4],[7,4],[7,5]]
+*/
+findPath(arr,target={x:0,y:0},pos={x:5,y:6}){
+    var path
+    //solve the problem
+
+    return path// 
+}
